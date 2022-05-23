@@ -19,3 +19,5 @@ try:#Para que el try se ejecute, tenemos que poner las variables que el usuario 
         
 except:
     print("Error.Pon un numero")
+finally:
+    print("Hola")
